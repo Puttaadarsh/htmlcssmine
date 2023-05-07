@@ -1,0 +1,111 @@
+.sub_but{
+    background-color: rgba(201,0,0);
+    color: white;
+    border: none;
+    height: 36px;
+    width: 105px;
+    border-radius: 2px;
+    margin-right: 8px;
+    
+}
+.sub_but:hover{
+    opacity: 0.7;
+}
+.join{
+    background-color: white;
+    border-color: skyblue;
+    border-radius: 3px;
+    color: skyblue;
+    padding-left: 10px;
+    padding-right: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-width: 1px;
+    margin-right: 8px;
+    vertical-align: top;
+    transition: background-color 1s;
+}
+.join:hover{
+    background-color: rgb(234, 18, 18);
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+}
+.twitter_t{
+    background-color: rgb(0, 174, 255);
+    color: white;
+    border-radius: 25px;
+    border: none;
+    height: 36px;
+    width: 100px;
+    font-weight: bold;
+    font-size: 15px;
+    cursor: pointer;
+    transition: background-color 1s;
+   
+}
+.twitter_t:hover{
+    background-color: rgb(255, 0, 0);
+    box-shadow: 5px 5px 5px rgba(235, 51, 0, 0.886);
+}
+.amazon{
+    background-color: rgb(255, 204, 0);
+    border: none;
+    border-radius: 25px;
+    height: 36px;
+    width: 200px;
+    margin-right: 8px;
+}
+.amazon:hover{
+    background-color: rgb(255, 0, 166);
+}
+.am_1{
+    background-color: rgba(255, 111, 0, 0.91);
+    border: none;
+    border-radius: 25px;
+    height: 36px;
+    width: 200px;
+    margin-right: 8px;
+}
+
+.am_1:hover{
+    background-color: aqua;
+    border: none;
+    border-radius: 25px;
+    height: 36px;
+    width: 200px;
+    margin-right: 8px;
+    color: white;
+}
+.ad{
+    background-color: rgb(255, 187, 0);
+    border: none;
+    height: 36px;
+    width: 100px;
+
+}
+.ad:hover{
+    background-color: blueviolet;
+}
+.sign{
+    background-color: green;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    transition: background-color 1s;
+}
+.sign:hover{
+    background-color: aquamarine;
+    color: rgb(255, 0, 132);
+    box-shadow: 5px 5px 5px rgba(235, 51, 0, 0.886);;
+}
+
+
+
+
+
